@@ -12,33 +12,23 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# Reproducibility and Real Data
+# Motivation
 
-## Some Truth
+::: {.rmdimportant}
 
-::: {.rmdnote} 
-
->**"All models are wrong, but some are useful."**
-
--- George Box, 1976, *Journal of the American Statistical Association*
+Like father, like daughter.
 
 :::
 
+<img src="_images/meredith.jpg" width="100%" style="display: block; margin: auto;" />
 
-## Critical Thinking, Analytics, and Reproducibility
+# Tension
 
+::: {.rmdimportant}
 
-# Today's agenda
-
-::: {.rmdnote}
-
-- Biology
-- [Vaccines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789217/)
-- Dataset 1 (Marathon Kids; size, means and correlation?)
-- Per Dr. Suzie Smith, a quiz
-- Tensions
-- A few quotes
-- See if we've had fun
+Tension..
 
 :::
+
+<img src="_images/tension.jpg" width="100%" style="display: block; margin: auto;" />
 
