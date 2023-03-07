@@ -11,24 +11,37 @@
 9. You shall not give false testimony against your neighbor.
 10. You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor.
 
-#  Tension Quotes
+# Answer
 
-##  Work,  Ecclesiastes 5:18-20, NIV
+"Remember the Sabbath day by keeping it holy. 9 **Six days you shall labor** and do all your work..."
+
+# Tension
+
+
+
+```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
+knitr::include_graphics(("_images/tension.jpg"))
+```
+
+
+##  Tension Quotes
+
+###  Work,  Ecclesiastes 5:18-20, NIV
 
 18 This is what I have observed to be good: that it is appropriate for a person to eat, to drink and **to find satisfaction in their toilsome labor under the sun during the few days of life God has given them—for this is their lot**. 19 Moreover, when God gives someone wealth and possessions, and the ability to enjoy them, to accept their lot and **be happy in their toil—this is a gift of God.** 20 They seldom reflect on the days of their life, because God keeps them occupied with gladness of heart.
 
 
-## Worry Not,  Ecclesiastes 4:4-6, NIV
+### Worry Not,  Ecclesiastes 4:4-6, NIV
 
 4 And I saw that all toil and all achievement spring from one person’s envy of another. This too is meaningless, a chasing after the wind.
 
 5 Fools fold their hands
-    and ruin themselves.
-6 Better one handful with tranquillity
+    and ruin themselves. 
+6 **Better one handful with tranquillity
     than two handfuls with toil
-    and chasing after the wind.
+    and chasing after the wind.**
     
-##  Work,  Matthew 25:14-30, NIV
+###  Work,  Matthew 25:14-30, NIV
 
 The Parable of the Bags of Gold
 14 “Again, it will be like a man going on a journey, who called his servants and entrusted his wealth to them. 15 To one he gave five bags of gold, to another two bags, and to another one bag,[a] each according to his ability. Then he went on his journey. 16 The man who had received five bags of gold went at once and put his money to work and gained five bags more. 17 So also, the one with two bags of gold gained two more. 18 But the man who had received one bag went off, dug a hole in the ground and hid his master’s money.
@@ -48,6 +61,6 @@ The Parable of the Bags of Gold
 28 “‘So take the bag of gold from him and give it to the one who has ten bags. 29 For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. ***30 And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.’***
 
 
-## Worry Not,  Matthew 6: 28-31, NIV
+### Worry Not,  Matthew 6: 28-31, NIV
 
 28 “And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin. 29 Yet I tell you that not even Solomon in all his splendor was dressed like one of these. 30 If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you—you of little faith? 31 **So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’**

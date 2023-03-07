@@ -1,6 +1,7 @@
 motivation
-tension
 our-quiz-exodus-20-niv
+answer
+tension
 tension-quotes
 work-ecclesiastes-518-20-niv
 worry-not-ecclesiastes-44-6-niv
@@ -9,11 +10,9 @@ worry-not-matthew-6-28-31-niv
 analytics
 some-truth
 critical-thinking-analytics-and-reproducibility
-todays-agenda
 vaccines
 an-example
 another-example
-motivation-1
 marathon-kids
 about-this-data
 more-about-this-data

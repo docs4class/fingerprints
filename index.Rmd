@@ -24,15 +24,4 @@ Like father, like daughter.
 knitr::include_graphics(("_images/meredith.jpg"))
 ```
 
-# Tension
-
-::: {.rmdimportant}
-
-Tension..
-
-:::
-
-```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
-knitr::include_graphics(("_images/tension.jpg"))
-```
 
