@@ -32,6 +32,7 @@ csl: chicago-fullnote-bibliography.csl
 
 ::: {.rmdnote}
 
+- Biology
 - [Vaccines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789217/)
 - Dataset 1 (Marathon Kids; size, means and correlation?)
 - Per Dr. Suzie Smith, a quiz
@@ -40,52 +41,4 @@ csl: chicago-fullnote-bibliography.csl
 - See if we've had fun
 
 :::
-
-
-
-# Marathon Kids
-
-::: {.rmdnote} 
-
->**Let's evaluate trainers.  Calculate:**
-
-1. the `mean` pre for each trainer
-2. the `mean` post for each trainer
-3. the `correlation` between pre and post for each trainer
-
-:::
-
-## About this data
-
-```{r, echo=FALSE, warning=FALSE, message=FALSE}
-library(datasauRus)
-library(dplyr)
-
-q1 <- datasaurus_dozen %>% 
-  mutate(trainer = rep(1:13,rep(142,13))) %>% 
-  select(trainer, x, y) %>% 
-  rename(pre = x, post = y)
-knitr::kable(head(q1), align = "ccc")
-
-
-```
-
-## More about this data
-
-```{r, echo=FALSE, warning=FALSE, message=FALSE}
-q2 <- q1  %>%  
-  group_by(trainer) %>% 
-  tally()
-knitr::kable(q2, align = "ccc")
-```
-
-## Some fun  data for you
-
-[Marathon Kids Data](https://drive.google.com/drive/folders/1ZytY6Co6NS0UdTS9cZIAsNjbEcdtkYte?usp=sharing)
-
-## The Full Data Set
-
-```{r, echo=FALSE, warning=FALSE, message=FALSE}
-knitr::kable(q1, align = "ccc")
-```
 

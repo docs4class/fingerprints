@@ -2,9 +2,11 @@ reproducibility-and-real-data
 some-truth
 critical-thinking-analytics-and-reproducibility
 todays-agenda
+motivation
 marathon-kids
 about-this-data
 more-about-this-data
 some-fun-data-for-you
 the-full-data-set
-motivation
+our-quiz
+exodus-20-niv
