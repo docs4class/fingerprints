@@ -1,0 +1,13 @@
+
+# Motivation
+
+::: {.rmdimportant}
+
+Like father, like daughter.
+
+:::
+
+```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
+knitr::include_graphics(("_images/meredith.jpg"))
+```
+
