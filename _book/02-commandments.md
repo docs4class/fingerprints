@@ -1,5 +1,5 @@
 # Suzie's Quiz
-## Exodus 20 (NIV)
+## The Ten Commandments, Exodus 20 (NIV)
 
 1. You shall have no other gods before me...
 2. You shall not make for yourself an image in the form of anything in heaven above or on the earth beneath or in the waters below... 

@@ -28,11 +28,17 @@ ggplot(datasaurus_dozen, aes(x = x, y = y)) +
 
 Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing.  Matejka,  Fitzmaurice. Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems. May 2017. Pages 1290–1294. https://doi.org/10.1145/3025453.3025912.
 
-# NFL, an application
+# NFL, a class rom application
 
-[Just one person's thoughts](https://rpubs.com/afuecker/727520)
+## [Real data](https://github.com/nflverse/nflverse-data/releases/tag/pbp)
 
-# The Beginning,  Genesis 1 NIV
+## [Chaos](https://www.sportingnews.com/us/nfl/news/nfl-fourth-down-conversion-chart-rate-by-distance/vofkeub6xwms6imajxqkfipp)
+
+## [Just one person's thoughts](https://rpubs.com/afuecker/727520)
+
+# Concluding Thoughts
+
+## The Beginning,  Genesis 1 NIV
 
 ::: {.rmdimportant}
 
@@ -40,11 +46,11 @@ In the beginning God created the heavens and the earth.  Now the earth was forml
 
 :::
 
-## The Source of the tension?
+## The Source of the tension?  Genesis 17
 
 ::: {.rmdimportant}
 
-17 To Adam he said, “Because you listened to your wife and ate fruit from the tree about which I commanded you, ‘You must not eat from it,’
+17 To Adam he said...
 
 **“Cursed is the ground because of you;
     through painful toil you will eat food from it
@@ -68,9 +74,10 @@ Aspire to live quietly, and to mind your own affairs, and **to work with your ha
 
 :::
 
-- A Popeye's Table Cleaner
+- A Popeye's table cleaner
+- Sunday morning server
 - House cleaner
-- Road work
+- Septic tank pumper
 - Football player to "something" that God loves
 - Bringing order to chaos
 - DOT worker
@@ -78,6 +85,17 @@ Aspire to live quietly, and to mind your own affairs, and **to work with your ha
 
 ::: {.rmdimportant}
 
-Analytics is order out chaos, doing God's work, helping others, allowing for tangible pride, and working with your hands.
+Analytics is order out of chaos; it's doing God's work, helping others, allowing for tangible pride, and working with your hands.
 
 :::
+
+## My current life verse
+
+### The Message, Galatations 5:22-23
+
+::: {.rmdimportant}
+
+
+22-23 But what happens when we live God’s way? He brings gifts into our lives, much the same way that fruit appears in an orchard—things like affection for others, exuberance about life, serenity. We develop a willingness to stick with things, a sense of compassion in the heart, and a conviction that a basic holiness permeates things and people. We find ourselves involved in loyal commitments, not needing to force our way in life, able to marshal and direct our energies wisely.
+
+::: 
