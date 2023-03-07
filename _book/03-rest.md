@@ -28,9 +28,10 @@ In the beginning God created the heavens and the earth.  Now the earth was forml
 
 # An example
 
-[A non-Beasley frindly example](https://gobluehose.com/news/2023/2/1/bevy-of-newcomers-join-pc-football-program-on-national-signing-day.aspx) 
+[A non-Beasley-friendly example](https://gobluehose.com/news/2023/2/1/bevy-of-newcomers-join-pc-football-program-on-national-signing-day.aspx) 
 
 
 # Another Example
 
 [A great friend](https://doctors.prismahealth.org/provider/Megan+Malone+Schellinger/992715)
+

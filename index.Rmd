@@ -11,8 +11,9 @@ description: |
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
+# God's Fingerprints in my Discipline
 
-# Motivation
+# When I grow up
 
 ::: {.rmdimportant}
 
