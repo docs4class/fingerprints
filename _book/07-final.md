@@ -42,7 +42,7 @@ In the beginning God created the heavens and the earth.  Now the earth was forml
 
 :::
 
-## All work is honorable to God -- especially the analytics
+## All work is honorable to God -- especially **analytics**
 
 ::: {.rmdimportant}
 

@@ -1,6 +1,8 @@
 motivation
-suzies-quiz-exodus-20-niv
+suzies-quiz
+exodus-20-niv
 answer
+shout-out
 tension
 tension-quotes
 work-ecclesiastes-518-20-niv
@@ -9,6 +11,7 @@ work-matthew-2514-30-niv
 worry-not-matthew-6-28-31-niv
 analytics
 some-truth
+critical-thinking-analytics-and-reproducibility
 order-out-of-chaos
 vaccines
 an-example
@@ -25,4 +28,4 @@ a-picture-is-worth-a-thousand-words-or-a-dinosaur
 reference
 nfl-an-application
 the-beginning-genesis-1-niv
-all-work-is-honorable-to-god-especially-the-analytics
+all-work-is-honorable-to-god-especially-analytics

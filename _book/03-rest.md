@@ -10,6 +10,7 @@
 
 :::
 
+## Critical Thinking, Analytics, and Reproducibility
 
 # Order out of chaos
 

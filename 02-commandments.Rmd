@@ -1,4 +1,5 @@
-# Suzie's Quiz:  Exodus 20 (NIV)
+# Suzie's Quiz
+## Exodus 20 (NIV)
 
 1. You shall have no other gods before me...
 2. You shall not make for yourself an image in the form of anything in heaven above or on the earth beneath or in the waters below... 
@@ -11,6 +12,8 @@
 9. You shall not give false testimony against your neighbor.
 10. You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor.
 
+
+
 # Answer
 
 ::: {.rmdimportant}
@@ -18,6 +21,14 @@
 "Remember the Sabbath day by keeping it holy. 9 **Six days you shall labor** and do all your work..."
 
 ::: 
+
+## Shout out
+
+```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
+knitr::include_graphics(("_images/JodyLipford.jpg"))
+```
+
+
 
 # Tension
 
