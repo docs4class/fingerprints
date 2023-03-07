@@ -9,7 +9,7 @@ work-matthew-2514-30-niv
 worry-not-matthew-6-28-31-niv
 analytics
 some-truth
-critical-thinking-analytics-and-reproducibility
+order-out-of-chaos
 vaccines
 an-example
 another-example
@@ -23,5 +23,6 @@ marathon-kids-1
 mean-and-correlation-results
 a-picture-is-worth-a-thousand-words-or-a-dinosaur
 reference
-nfl-one-option
-motivation-1
+nfl-an-application
+the-beginning-genesis-1-niv
+all-work-is-honorable-to-god-especially-the-analytics

@@ -28,18 +28,32 @@ ggplot(datasaurus_dozen, aes(x = x, y = y)) +
 
 Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing.  Matejka,  Fitzmaurice. Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems. May 2017. Pages 1290–1294. https://doi.org/10.1145/3025453.3025912.
 
-# NFL, one option
+# NFL, an application
 
 [Just one person's thoughts](https://rpubs.com/afuecker/727520)
 
-#The Beginning,  Genesis 1 NIV
-
-# Motivation
+# The Beginning,  Genesis 1 NIV
 
 ::: {.rmdimportant}
 
 In the beginning God created the heavens and the earth.  Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.
 
 :::
+
+## All work is honorable to God -- especially the analytics
+
+::: {.rmdimportant}
+
+Aspire to live quietly, and to mind your own affairs, and **to work with your hands**, as we instructed you, so that you may walk properly before outsiders and be dependent on no one.” (1 Thess. 4:9–10)
+
+:::
+
+
+- House cleaner
+- Road work
+- Football player to "something" that God loves
+- Bringing order to chaos
+- DOT worker
+- Medical scheduler
 
 

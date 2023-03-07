@@ -11,7 +11,14 @@
 :::
 
 
-## Critical Thinking, Analytics, and Reproducibility
+# Order out of chaos
+
+
+::: {.rmdimportant}
+
+In the beginning God created the heavens and the earth.  Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.
+
+:::
 
 
 # Vaccines
@@ -25,4 +32,4 @@
 
 # Another Example
 
-[eA great friend](https://doctors.prismahealth.org/provider/Megan+Malone+Schellinger/992715)
+[A great friend](https://doctors.prismahealth.org/provider/Megan+Malone+Schellinger/992715)
