@@ -1,4 +1,4 @@
-# Some Final Thoughts
+# Some Further Thoughts
 
 ## Marathon Kids
 
@@ -29,4 +29,19 @@
 ### Reference
 
 Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing.  Matejka,  Fitzmaurice. Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems. May 2017. Pages 1290–1294. https://doi.org/10.1145/3025453.3025912.
+
+# NFL, one option
+
+[Just one person's thoughts](https://rpubs.com/afuecker/727520)
+
+#The Beginning,  Genesis 1 NIV
+
+# Motivation
+
+::: {.rmdimportant}
+
+In the beginning God created the heavens and the earth.  Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.
+
+:::
+
 

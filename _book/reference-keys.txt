@@ -1,5 +1,5 @@
 motivation
-our-quiz-exodus-20-niv
+suzies-quiz-exodus-20-niv
 answer
 tension
 tension-quotes
@@ -18,8 +18,10 @@ about-this-data
 more-about-this-data
 some-fun-data-for-you
 the-full-data-set
-some-final-thoughts
+some-further-thoughts
 marathon-kids-1
 mean-and-correlation-results
 a-picture-is-worth-a-thousand-words-or-a-dinosaur
 reference
+nfl-one-option
+motivation-1
