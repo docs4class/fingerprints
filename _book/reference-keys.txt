@@ -27,9 +27,10 @@ marathon-kids-1
 mean-and-correlation-results
 a-picture-is-worth-a-thousand-words-or-a-dinosaur
 reference
-nfl-a-class-rom-application
+nfl-a-class-room-application
 real-data
 chaos
+chaos-explained
 just-one-persons-thoughts
 concluding-thoughts
 the-beginning-genesis-1-niv

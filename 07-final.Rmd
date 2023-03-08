@@ -28,11 +28,13 @@ ggplot(datasaurus_dozen, aes(x = x, y = y)) +
 
 Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing.  Matejka,  Fitzmaurice. Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems. May 2017. Pages 1290–1294. https://doi.org/10.1145/3025453.3025912.
 
-# NFL, a class rom application
+# NFL, a class room application
 
 ## [Real data](https://github.com/nflverse/nflverse-data/releases/tag/pbp)
 
 ## [Chaos](https://www.sportingnews.com/us/nfl/news/nfl-fourth-down-conversion-chart-rate-by-distance/vofkeub6xwms6imajxqkfipp)
+
+## [Chaos explained](https://www.nflfastr.com/articles/field_descriptions.html)
 
 ## [Just one person's thoughts](https://rpubs.com/afuecker/727520)
 
@@ -78,7 +80,7 @@ Aspire to live quietly, and to mind your own affairs, and **to work with your ha
 - Sunday morning server
 - House cleaner
 - Septic tank pumper
-- Football player to "something" that God loves
+- An athlete player becoming "more" than an athlete 
 - Bringing order to chaos
 - DOT worker
 - Medical scheduler
